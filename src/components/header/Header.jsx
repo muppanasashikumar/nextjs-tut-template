@@ -6,7 +6,7 @@ export default function Header() {
     <header className="bg-blue-900">
       <div className="container h-16  flex justify-between items-center">
         <div className="logo text-white">
-          <h2 className="text-white font-semibold">Next<span className="text-color-secondary">Tut</span></h2>
+          <h2 className="text-white font-semibold">Next<span className="text-color-secondary">JS</span></h2>
         </div>
         <nav>
           <ul>
